@@ -25,5 +25,7 @@ The Web Side
 The small PHP scipt ask to the DB for the IP and Date, and sum all the "active
 hosts" with the same time, and create a graphic representation of it.
 
+The graphics generated are stored in the "generated" folder
+
 For the graphic representation web use LibChart, you can download the last
 vertion at: http://naku.dohcrew.com/libchart/
