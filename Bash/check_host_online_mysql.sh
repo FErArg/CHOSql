@@ -3,9 +3,9 @@
 DB="network.db"
 MySQLU="USER"
 MySQLP="PASSWORD"
-MySQLD="DATABASE"
+MySQLD="hostOnline"
 MySQLS="SERVER"
-MySQLT="TABLE"
+MySQLT="hosts"
 
 fecha="$(date +%F)"
 hora="$(date +%H.%M)"
